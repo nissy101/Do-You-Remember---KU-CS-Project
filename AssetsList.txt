@@ -1,0 +1,22 @@
+Assets
+
+Modular First Person Controller :
+https://assetstore.unity.com/packages/3d/characters/modular-first-person-controller-189884
+
+Easy Primitive People :
+https://assetstore.unity.com/packages/3d/characters/easy-primitive-people-161846
+
+School assets :
+https://assetstore.unity.com/packages/3d/environments/school-assets-146253
+
+Modular House Pack 1 :
+https://assetstore.unity.com/packages/3d/environments/urban/modular-house-pack-1-236466
+
+CITY package :
+https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
+
+Violet Themed UI :
+https://assetstore.unity.com/packages/2d/gui/violet-themed-ui-235559
+
+Realistic Tree 9 [Rainbow Tree] :
+https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
